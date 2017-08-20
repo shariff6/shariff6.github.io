@@ -210,7 +210,10 @@ body.sm-activate {
   cursor: pointer;
   height: 100%;
   width: 100%;
-  background: #6b6a6a;
+  background-image: url('back.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   opacity: 0;
   position: fixed;
   left: 0;
@@ -316,7 +319,6 @@ html {
 }
 
 body {
-  background: #dddddd;
   padding: 0;
   text-align: center;
   font-family: 'open sans';
@@ -391,6 +393,7 @@ pre code {
   float: left;
   width: 100%;
   margin: 0 auto;
+  margin-top: 15%
 }
 
 
