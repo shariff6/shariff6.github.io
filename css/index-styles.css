@@ -140,6 +140,13 @@ body {
   border-bottom-style: solid;
 }
 
+
+.img-circle {
+    border-radius: 60%;
+    border-color: grey;
+    border-width: thick;
+}
+
 .wrapper {
   height: auto !important;
   height: 100%;
