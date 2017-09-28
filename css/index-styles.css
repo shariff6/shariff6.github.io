@@ -116,7 +116,10 @@ body {
   border-right-style: solid;
 }
 .page2 {
-  background-color: rgb(249, 239, 234)
+  background-color: rgb(249, 239, 234)inherit;
+  border-bottom: 12px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
 }
 .page3{
   background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://s-media-cache-ak0.pinimg.com/originals/d5/43/f7/d543f71d60495a7056fbd7e4d0ad2e5f.jpg');
@@ -126,6 +129,9 @@ body {
   padding: 0;
   margin: 0;
   height: 100%;
+  border-bottom: 12px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
 }
 .page4{
   background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://wallpaperscraft.com/image/lion_mane_eyes_waiting_big_cat_carnivore_king_of_beasts_53074_3840x2160.jpg');
@@ -138,6 +144,7 @@ body {
   border-bottom: 12px;
   border-bottom-color: white;
   border-bottom-style: solid;
+
 }
 
 
